@@ -11,3 +11,15 @@ Clément SIPIETER a repris ce travail et l'a développé en Java, objet de ce d�
 Ce dépôt contient les scénarios spécifiques aux données Abes/Sudoc. Il utilise comme "coeur" ou moteur, le dépôt : https://github.com/abes-esr/sudoqual-framework
 
 Ce dépôt contient la configuration docker 🐳 pour déployer l'application en local sur le poste d'un développeur, ou bien sur les serveurs de dev, test et prod. 
+
+URLs de dev : 
+diplotaxis1-dev.v212.abes.fr:9419/info  
+diplotaxis1-dev.v212.abes.fr:9419/light  
+
+URLs de test :  
+diplotaxis1-test.v202.abes.fr:9419/info  
+diplotaxis1-test.v202.abes.fr:9419/light  
+
+URLs de prod :  
+diplotaxis1-prod.v102.abes.fr:9419/info  
+diplotaxis1-prod.v102.abes.fr:9419/light  

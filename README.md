@@ -8,7 +8,7 @@ C'est un projet de recherche fondamentale labellisé par l'ANR-Contint 2011 qui 
 Ce travail a été réalisé avec l'équipe GraphIK / BOREAL du LIRMM : https://www.lirmm.fr/qualinca/index7ca7.html?q=fr    
 Clément SIPIETER a repris ce travail et l'a développé en Java, objet de ce dépôt.
 
-Ce dépôt contient les scénarios spécifiques aux données Abes/Sudoc : https://github.com/abes-esr/qualinka-sudoc
+Ce dépôt contient les scénarios spécifiques aux données Abes/Sudoc : https://github.com/abes-esr/qualinka-sudoc  
 Il utilise comme "coeur" ou moteur, le dépôt : https://github.com/abes-esr/sudoqual-framework
 
 Ce dépôt contient la configuration docker 🐳 pour déployer l'application en local sur le poste d'un développeur, ou bien sur les serveurs de dev, test et prod. 

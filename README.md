@@ -12,7 +12,7 @@ Ce dépôt contient les scénarios spécifiques aux données Abes/Sudoc. Il util
 
 Ce dépôt contient la configuration docker 🐳 pour déployer l'application en local sur le poste d'un développeur, ou bien sur les serveurs de dev, test et prod. 
 
-URLs de dev : 
+URLs de dev :  
 diplotaxis1-dev.v212.abes.fr:9419/info  
 diplotaxis1-dev.v212.abes.fr:9419/light  
 

@@ -14,19 +14,19 @@ Il utilise comme "coeur" ou moteur, le dépôt : https://github.com/abes-esr/sud
 Ce dépôt contient la configuration docker 🐳 pour déployer l'application en local sur le poste d'un développeur, ou bien sur les serveurs de dev, test et prod. 
 
 URLs de dev :  
-https://qualinka-dev.idref.fr/predict/info
-https://qualinka-dev.idref.fr/predict/light
+https://qualinka-dev.idref.fr/predict/info  
+https://qualinka-dev.idref.fr/predict/light  
 diplotaxis1-dev.v212.abes.fr:9419/info  
 diplotaxis1-dev.v212.abes.fr:9419/light  
 
 URLs de test :  
-https://qualinka-test.idref.fr/predict/info
-https://qualinka-test.idref.fr/predict/light
+https://qualinka-test.idref.fr/predict/info  
+https://qualinka-test.idref.fr/predict/light  
 diplotaxis1-test.v202.abes.fr:9419/info  
 diplotaxis1-test.v202.abes.fr:9419/light  
 
 URLs de prod :  
-https://qualinka.idref.fr/predict/info
-https://qualinka.idref.fr/predict/light
+https://qualinka.idref.fr/predict/info  
+https://qualinka.idref.fr/predict/light  
 diplotaxis1-prod.v102.abes.fr:9419/info  
 diplotaxis1-prod.v102.abes.fr:9419/light  

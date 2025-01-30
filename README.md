@@ -11,6 +11,8 @@ Clément SIPIETER a repris ce travail et l'a développé en Java, objet de ce d�
 Ce dépôt contient les scénarios spécifiques aux données Abes/Sudoc : https://github.com/abes-esr/qualinka-sudoc  
 Il utilise comme "coeur" ou moteur, le dépôt : https://github.com/abes-esr/sudoqual-framework
 
+La documentation des web services est ici : https://github.com/abes-esr/sudoqual-framework/blob/develop/documentation/documentation-sudoqual.md#utilisation-des-web-services
+
 Ce dépôt contient la configuration docker 🐳 pour déployer l'application en local sur le poste d'un développeur, ou bien sur les serveurs de dev, test et prod. 
 
 URLs de dev :  
